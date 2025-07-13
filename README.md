@@ -31,7 +31,7 @@
 ---
 
 ## 📁 Folder Structure (Planned)
-
+```
 GemChat/
 ├── client/           # React frontend (in progress)
 │   └── App.jsx
@@ -41,4 +41,5 @@ GemChat/
 ├── redis/            # Redis caching logic (planned)
 ├── .env              # Environment variables (to be added)
 └── README.md
+```
   
