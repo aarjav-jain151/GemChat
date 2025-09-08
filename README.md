@@ -1,7 +1,8 @@
 # 💎 GemChat: An AI-Powered Real-Time Chat App
 
-### Live Demo
-🌐 [gemchat-live.netlify.app](https://gemchat-live.netlify.app)
+## 🚀 Live Demo
+
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=for-the-badge&logo=netlify)](https://gemchat-live.netlify.app)
 
 ---
 
