@@ -19,6 +19,17 @@ GemChat is a modern, real-time chat application built with the MERN stack. It al
 
 ---
 
+
+### How to Use the App
+1.  **Create an Account**: Go to the [Live Demo](https://gemchat-live.netlify.app) and click "Create one" to register with a new email and password.
+2.  **Create a Project**: After logging in, you can create a new project with a unique name. **Don't forget to reload the tab once** after creating the project to see it.
+3.  **Add Collaborators**: In a project, you can add other users to your group chat to collaborate in real-time.
+4.  **Chat and Collaborate**: Type your messages in the chat box to talk with your collaborators.
+5.  **Use the AI Agent**: To get assistance from the AI, simply type your query starting with **`@ai`**. For example, **`@ai create an express server`**.
+
+---
+
+
 ### Tech Stack
 - **Frontend**:
     - **React**: A JavaScript library for building user interfaces.
